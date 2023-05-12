@@ -38,7 +38,7 @@ const VideoDownloader: React.FC = () => {
   return (
     <div className="flex justify-center items-center h-screen bg-gradient-to-r from-purple-500 to-indigo-500">
       <ToastContainer
-        position="top-right"
+        position="bottom-right"
         hideProgressBar={false}
         newestOnTop={false}
         closeOnClick
